@@ -11,7 +11,7 @@ class CategoryRepo {
     var response = await http.get(
       Uri.parse(_url),
       headers: {
-        'Authorization': 'bWFl8sxuGri8GZ60ddN5u6EEphz74qhIRLWn8e6rC4LfRwYJDpCz0x0z'
+        'Authorization': 'API-KEY'
       },
     );
     if (response.statusCode == 200) {
