@@ -1,6 +1,8 @@
 # Flutter Wallpaper App with Pixel API Integration and BLoC
 
-![App Preview](images_screen_shots)
+![App Preview](images_screen_shots/MainScreen.jpeg),
+![App Preview](images_screen_shots/search_screen.jpeg),
+![App Preview](images_screen_shots/detail_screen.jpeg)
 
 This is a Flutter-based Wallpaper App that allows users to fetch wallpapers from the Pixel API, download them to their phone, and search for different wallpapers. The app uses the BLoC (Business Logic Component) architecture to manage state and data flow.
 
